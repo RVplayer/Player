@@ -1,0 +1,1 @@
+name, accident, accident_maxdev, max_dev, attack_start_from_init, aggr_start_from_init, accident_from_init, attack_start_from_init_time, aggr_start_from_init_time, accident_time, attack_duration, success_attack_duration, crash_x, crash_y, spoofed_gps_x, spoofed_gps_y, pos_diff, start_time_x, start_time_y
